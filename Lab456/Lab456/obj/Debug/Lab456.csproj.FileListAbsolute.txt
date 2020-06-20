@@ -109,8 +109,12 @@ C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\bin\Microsoft.Owin.Security.Mic
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\bin\System.Web.Http.Owin.xml
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.csprojAssemblyReference.cache
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.csproj.CopyComplete
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.dll
 C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.pdb
+C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.Migrations.InitialModel.resources
+C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.Migrations.CreateTableCourse.resources
+C:\Users\Dell\source\repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.Migrations.PopulateCategoryTable.resources
+C:\Users\Dell\Source\Repos\Lab-456\Lab456\Lab456\obj\Debug\Lab456.Migrations.AddNameColumnToApplicationUser.resources
